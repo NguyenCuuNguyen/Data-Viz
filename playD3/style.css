@@ -1,0 +1,9 @@
+.container{
+  width: 250px;
+  height: 200 px;
+  border: 1px solid #3feee6;
+}
+
+.bar{
+  fill: #3feee6;
+}
